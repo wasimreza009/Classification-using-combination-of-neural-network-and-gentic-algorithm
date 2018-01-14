@@ -1,0 +1,8 @@
+Alcohol,Malicacid,Ash,Alcalinityofash,Magnesium,Totalphenols,Flavanoids,Nonflavanoidphenols,Proanthocyanins,Colorintensity,Hue,OD280OD315ofdilutedwines,Proline,ClassLabel
+Float,Float,Float,Float,Integer,Float,Float,Float,Float,Float,Float,Float,Integer,Integer
+
+
+ 
+
+
+

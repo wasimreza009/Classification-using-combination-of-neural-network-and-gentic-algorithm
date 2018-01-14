@@ -1,0 +1,14 @@
+voting accuracy=93.33333333333333	training accuracy=99.25925925925925	testing accuracy=93.33333333333333	no of zeros=15.0
+voting accuracy=100.0	training accuracy=99.25925925925925	testing accuracy=100.0	no of zeros=16.0
+voting accuracy=100.0	training accuracy=99.25925925925925	testing accuracy=100.0	no of zeros=15.0
+voting accuracy=100.0	training accuracy=99.25925925925925	testing accuracy=100.0	no of zeros=16.0
+voting accuracy=93.33333333333333	training accuracy=99.25925925925925	testing accuracy=100.0	no of zeros=16.0
+voting accuracy=100.0	training accuracy=99.25925925925925	testing accuracy=100.0	no of zeros=15.0
+voting accuracy=100.0	training accuracy=99.25925925925925	testing accuracy=100.0	no of zeros=15.0
+voting accuracy=100.0	training accuracy=99.25925925925925	testing accuracy=100.0	no of zeros=19.0
+voting accuracy=86.66666666666667	training accuracy=100.0	testing accuracy=86.66666666666667	no of zeros=17.0
+voting accuracy=100.0	training accuracy=99.25925925925925	testing accuracy=100.0	no of zeros=14.0
+
+avg training accuracy99.33333333333333
+avg testing accuracy97.99999999999999
+avg voting accuracy97.33333333333333
